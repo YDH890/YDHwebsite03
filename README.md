@@ -1,9 +1,9 @@
 # 윤다희의 게임기획 모음 [YDH's Notion](https://www.notion.so/b5bdeae1389b44ab8bf69b9a0b889be4?pvs=4)
 
-## [1. PM's DIARY](https://www.notion.so/PM-s-DIARY-4ce8740d6da0431381539a3a78a2e4b3?pvs=4)
+## 1. [PM's DIARY](https://www.notion.so/PM-s-DIARY-4ce8740d6da0431381539a3a78a2e4b3?pvs=4)
 - 포이즌 메이커인 내가 아버지의 치유 포션 상점을 물려받았다?!
 - 초보 연금술사의 좌충우돌 가게 운영기
-## [2. ■■ 아쿠아리움](https://www.notion.so/c6503776e5ad41ca94decae736f48ca3?pvs=4)
+## 2. [■■ 아쿠아리움](https://www.notion.so/c6503776e5ad41ca94decae736f48ca3?pvs=4)
 - 눈 떠보니 초호화 아쿠아리움이었다. 분명 꿈꾸던 휴식처인데, 마음이 불편한 이유가 뭘까?
 - 쯔꾸르 스타일로 만나는 공포 미스테리 아쿠아리움 탈출기
 ## 3. SHY Sun 팀프로젝트 - [여우볕마을](https://www.notion.so/Shy-Sun-3cb3db1cd001479eb808a450279f6f34?pvs=4)
